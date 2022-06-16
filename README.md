@@ -4,8 +4,13 @@
 
 # Progress: 
 - [ ] Create Dataset of `Stones sounds`
-- [ ] Implemented from Scratch hot-word detector. 10 secret words to find
+- [ ] Implemented from Scratch hot-word detector.
 - [ ] Broadcast interceptor and realtime run HotWordDetector
+- [ ] 10 secret words found
+
+# Found Secret Words:
+1. "портвейн"
+
 
 # Used materials:
 
